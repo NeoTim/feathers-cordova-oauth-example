@@ -6,6 +6,12 @@
 
 If you want to know how this was built [this blog post](https://ellipticaldoor.com/2017-10-22-making-work-the-vue-js-template-with-cordova/) explains how this works.
 
+## Installation
+``` bash
+npm install
+cordova platform add ios android
+```
+
 ## Build Setup
 
 ``` bash
