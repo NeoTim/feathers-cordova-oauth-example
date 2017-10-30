@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/ellipticaldoor/vue-webpack-cordova/master/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/ellipticaldoor/feathers-cordova-oauth-example/master/screenshot.jpg)
 
 # feathers-cordova-oauth-example
 
