@@ -2,15 +2,17 @@
 
 # feathers-cordova-oauth-example
 
-> The original Vue Webpack template prepared for running cordova apps on ios and android
+> Working example of oauth login with feathersjs and cordova ios and android
 
-If you want to know how this was built [this blog post](https://ellipticaldoor.com/2017-10-22-making-work-the-vue-js-template-with-cordova/) explains how this works.
+More info on [this blog post](https://ellipticaldoor.com/2017-10-30-feathersjs-oauth-with-cordova/).
 
 ## Installation
 ``` bash
 npm install
 cordova platform add ios android
 ```
+
+Warning: You need a working FeathersJS backend ready for the github oauth login. [This tutorial](https://ellipticaldoor.com/2017-10-30-feathersjs-oauth-with-cordova/) explains how to get one.
 
 ## Build Setup
 
