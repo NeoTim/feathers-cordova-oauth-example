@@ -6,7 +6,7 @@
 
 More info on [this blog post](https://ellipticaldoor.com/2017-10-30-feathersjs-oauth-with-cordova/).
 
-## Installation
+## Installation
 ``` bash
 npm install
 cordova platform add ios android
